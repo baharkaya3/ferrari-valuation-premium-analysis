@@ -143,12 +143,13 @@ FX normalization, Net Debt, Enterprise Value, profitability metrics and valuatio
 **Dashboard**  
 Visual analysis of the relationship between EBITDA Margin and EV/EBITDA.
 
-### Supporting Model
+### Research Materials
 
-📊 **[View Financial Model — Google Sheets](https://docs.google.com/spreadsheets/d/1nhtcRIh5ujBFazddXAC1CjpoO8lJ-qqROZazyzO9AjU/edit?usp=sharing)**
+📄 **[Read the Financial Analysis Report](./Ferrari_Dual_Cohort_Valuation_Report.pdf)**
 
----
+📊 **[View the Financial Model — Google Sheets](https://docs.google.com/spreadsheets/d/1nhtcRIh5ujBFazddXAC1CjpoO8lJ-qqROZazyzO9AjU/edit?usp=sharing)**
 
+📁 **[Download the Excel Financial Model](./Ferrari_Dual_Cohort_Valuation_Model.xlsx)**
 ## Limitations
 
 **Ferretti Group**  
