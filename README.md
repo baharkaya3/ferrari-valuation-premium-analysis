@@ -1,6 +1,11 @@
 # Ferrari Valuation Premium Analysis: Automotive vs. Ultra-Luxury
 # Project Overview
 This project looks at how financial markets price Ferrari N.V. (RACE) using a Comparable Company Analysis (Comps) with two different groups. The main goal is to figure out if the market treats Ferrari like a regular car maker or like an ultra-luxury "Veblen" brand (which means high pricing power and artificial scarcity).
+## Research Materials
+
+📊 **[View Financial Model — Google Sheets](https://docs.google.com/spreadsheets/d/1nhtcRIh5ujBFazddXAC1CjpoO8lJ-qqROZazyzO9AjU/edit?usp=sharing)**
+
+The financial model contains the underlying financial data, currency normalization, valuation calculations, peer comparisons, and analytical outputs used in this study.
 # Methodology & Data
 I used historical financial data from 2023 to 2025. To get a good comparison, I built two different groups of peers:
 1. **Automotive Cohort:** Porsche AG (ETR:P911), Aston Martin (LON:AML)
